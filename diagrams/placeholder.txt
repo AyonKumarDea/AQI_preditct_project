@@ -1,0 +1,2 @@
+diagrams/placeholder.txt
+# Diagrams and visualizations
